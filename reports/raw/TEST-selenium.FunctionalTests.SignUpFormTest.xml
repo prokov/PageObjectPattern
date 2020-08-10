@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Дима-ПК" name="selenium.FunctionalTests.SignUpFormTest" skipped="0" tests="1" time="11.519" timestamp="2018-03-23T10:30:19">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="env.PRUNMGR" value="C:\Program Files\DataStax Community\utils\prunmgr.exe" />
+    <property name="env.PRUNSRV" value="C:\Program Files\DataStax Community\utils\prunsrv.exe" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="eclipse.pdebuild.templates" value="/D:/java/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/templates/" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="env.PROMPT" value="$P$G" />
+    <property name="os.name" value="Windows 7" />
+    <property name="env.FP_NO_HOST_CHECK" value="NO" />
+    <property name="sun.boot.class.path" value="D:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;D:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;D:\Program Files\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;D:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;D:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;D:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;D:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;D:\Program Files\Java\jdk1.8.0_144\jre\classes" />
+    <property name="env.TMPDIR" value="C:\Users\Public\Documents\Wondershare\CreatorTemp" />
+    <property name="env.COMPUTERNAME" value="„€ЊЂ-ЏЉ" />
+    <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+    <property name="ant.file.type.Page Object Pattern" value="file" />
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327" />
+    <property name="java.runtime.version" value="1.8.0_144-b01" />
+    <property name="env.HOMEPATH" value="\Users\„Ё¬ " />
+    <property name="user.name" value="„Ё¬ " />
+    <property name="ant.file.Page Object Pattern" value="D:\java\Workspace\PageObjectPattern\build.xml" />
+    <property name="user.language" value="ru" />
+    <property name="env.windows_tracing_flags" value="3" />
+    <property name="sun.boot.library.path" value="D:\Program Files\Java\jdk1.8.0_144\jre\bin" />
+    <property name="ant.project.default-target" value="build" />
+    <property name="ant.project.name" value="Page Object Pattern" />
+    <property name="java.version" value="1.8.0_144" />
+    <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 58 Stepping 9, GenuineIntel" />
+    <property name="user.timezone" value="" />
+    <property name="env.asl.log" value="Destination=file" />
+    <property name="env.TEMP" value="C:\Users\1F43~1\AppData\Local\Temp" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="D:\Program Files\Java\jdk1.8.0_144\jre\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="env.HOMEDRIVE" value="C:" />
+    <property name="sun.jnu.encoding" value="Cp1251" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="ECLIPSE_HOME" value="../../eclipse/" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="RU" />
+    <property name="java.home" value="D:\Program Files\Java\jdk1.8.0_144\jre" />
+    <property name="env.PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\" />
+    <property name="env.APPDATA" value="C:\Users\„Ё¬ \AppData\Roaming" />
+    <property name="env.PUBLIC" value="C:\Users\Public" />
+    <property name="env.windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="env.ComSpec" value="C:\Windows\system32\cmd.exe" />
+    <property name="env.OS" value="Windows_NT" />
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+    <property name="ant.file" value="D:\java\Workspace\PageObjectPattern\build.xml" />
+    <property name="os.version" value="6.1" />
+    <property name="env.ProgramW6432" value="C:\Program Files" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="25.144-b01" />
+    <property name="env.USERPROFILE" value="C:\Users\„Ё¬ " />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="env.TMP" value="C:\Users\1F43~1\AppData\Local\Temp" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="eclipse.pdebuild.scripts" value="/D:/java/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/scripts/" />
+    <property name="user.home" value="C:\Users\Дима" />
+    <property name="target" value="1.8" />
+    <property name="env.ProgramData" value="C:\ProgramData" />
+    <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+    <property name="env.SESSIONNAME" value="Console" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="env.NUMBER_OF_PROCESSORS" value="4" />
+    <property name="java.library.path" value="D:\java\eclipse;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_144/bin/server;C:/Program Files/Java/jre1.8.0_144/bin;C:/Program Files/Java/jre1.8.0_144/lib/amd64; D:\mysql-5.7.19-winx64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files\Dell\DW WLAN Card;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\Perforce;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;D:\mysql-5.7.19-winx64\bin;C:\Users\Дима\AppData\Roaming\npm;  ;D:\java\eclipse;;.;D:\java\eclipse\configuration\org.eclipse.osgi\763\0\.cp" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="env.CASSANDRA_HOME" value="C:\Program Files\DataStax Community\apache-cassandra\" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on June 29 2015" />
+    <property name="java.class.path" value="D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-antlr.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-bcel.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-bsf.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-log4j.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-oro.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-regexp.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-resolver.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-xalan2.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-commons-logging.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-commons-net.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-jai.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-javamail.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-jdepend.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-jmf.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-jsch.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-junit.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-junit4.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-launcher.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-netrexx.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-swing.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-testutil.jar;D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant.jar;D:\java\eclipse\configuration\org.eclipse.osgi\80\0\.cp\lib\antdebug.jar;D:\java\eclipse\configuration\org.eclipse.osgi\80\0\.cp\lib\remote.jar;D:\java\eclipse\configuration\org.eclipse.osgi\81\0\.cp\lib\remoteAnt.jar;D:\Program Files\Java\jdk1.8.0_144\lib\tools.jar;D:\java\eclipse\plugins\org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar" />
+    <property name="sun.java.command" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner -Dorg.eclipse.ant.core.ANT_PROCESS_ID=1521801018162 -Declipse.connect.port=59672 -Declipse.pdebuild.home=/D:/java/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/./ -Declipse.pdebuild.scripts=/D:/java/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/scripts/ -Declipse.pdebuild.templates=/D:/java/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/templates/ -Dant.home=D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327 -logger org.eclipse.ant.internal.launching.remote.logger.RemoteAntBuildLogger -inputhandler org.eclipse.ant.internal.ui.antsupport.inputhandler.ProxyInputHandler -buildfile D:\java\Workspace\PageObjectPattern\build.xml SignUpFormTest" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="env.windir" value="C:\Windows" />
+    <property name="env.LOGONSERVER" value="\\„€ЊЂ-ЏЉ" />
+    <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.os.patch.level" value="Service Pack 1" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="env.ANT_HOME" value="D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327" />
+    <property name="env.ProgramFiles" value="C:\Program Files" />
+    <property name="env.PROCESSOR_REVISION" value="3a09" />
+    <property name="eclipse.pdebuild.home" value="/D:/java/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/./" />
+    <property name="java.io.tmpdir" value="C:\Users\1F43~1\AppData\Local\Temp\" />
+    <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.SystemRoot" value="C:\Windows" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.ext.dirs" value="D:\Program Files\Java\jdk1.8.0_144\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="env.DSCINSTALLDIR" value="C:\Program Files\DataStax Community\" />
+    <property name="env.LOCALAPPDATA" value="C:\Users\„Ё¬ \AppData\Local" />
+    <property name="user.dir" value="D:\java\Workspace\PageObjectPattern" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+    <property name="env.Path" value="C:/Program Files/Java/jre1.8.0_144/bin/server;C:/Program Files/Java/jre1.8.0_144/bin;C:/Program Files/Java/jre1.8.0_144/lib/amd64; D:\mysql-5.7.19-winx64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files\Dell\DW WLAN Card;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\Perforce;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;D:\mysql-5.7.19-winx64\bin;C:\Users\„Ё¬ \AppData\Roaming\npm;  ;D:\java\eclipse;" />
+    <property name="basedir" value="D:\java\Workspace\PageObjectPattern" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="D:\java\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant.jar" />
+    <property name="env.USERNAME" value="„Ё¬ " />
+    <property name="env.SystemDrive" value="C:" />
+    <property name="source" value="1.8" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="env.USERDOMAIN" value="„Ё¬ -ЏЉ" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="ant.project.invoked-targets" value="SignUpFormTest" />
+    <property name="env.PROCESSOR_LEVEL" value="6" />
+  </properties>
+  <testcase classname="selenium.FunctionalTests.SignUpFormTest" name="signUp" time="6.173" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73) on port 17659
+Only local connections are allowed.
+мар 23, 2018 1:30:24 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
