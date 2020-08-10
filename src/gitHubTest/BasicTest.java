@@ -27,8 +27,8 @@ public class BasicTest extends FunctionalTestExtended {
     CreateRepoPage createPage;
     RepoListPage repoListPage = new RepoListPage(driver);
 
-    String user = "prokov";
-    String password = "Begemot1234*";
+    String user = "login";
+    String password = "password";
     String baseURL = "https://github.com/login";
     String repoListURL = "https://github.com/prokov?tab=repositories";
     static String repoName = "Repo" + String.valueOf((int) (Math.random() * 1000000));
